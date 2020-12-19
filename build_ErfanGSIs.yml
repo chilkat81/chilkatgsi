@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.msmxtended.org/sanders/Xtended-XR-v3.0-sanders-OFFICIAL-20201219.zip
+  ROM_URL: https://downloads.msmxtended.org/cheeseburger/Xtended-XR-v3.0-cheeseburger-OFFICIAL-20201219.zip
 
 
   ROM_NAME: Generic

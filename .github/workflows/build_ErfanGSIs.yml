@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://jztkft.dl.sourceforge.net/project/ancientrom/Tissot/AncientOS-CIVILIZATION-v4.0.1-Final-tissot-PRIMEVAL-20201211-1020-Vanilla.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/beryllium/AncientOS-weeaboify-v4.0.1-Final-beryllium-Koshiki-20201118-0457-Vanilla.zip
 
 
   ROM_NAME: Generic

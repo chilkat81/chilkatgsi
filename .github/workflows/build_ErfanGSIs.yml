@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.msmxtended.org/sanders/Xtended-XR-v3.0-sanders-OFFICIAL-20201219.zip
+  ROM_URL: https://jztkft.dl.sourceforge.net/project/ancientrom/Tissot/AncientOS-CIVILIZATION-v4.0.1-Final-tissot-PRIMEVAL-20201211-1020-Vanilla.zip
 
 
   ROM_NAME: Generic

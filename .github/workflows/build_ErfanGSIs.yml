@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nav.dl.sourceforge.net/project/nusantaraproject/whyred/Nusantara_v2.5-11-whyred-21122020-OFFICIAL-0622.zip
+  ROM_URL: https://nav.dl.sourceforge.net/project/unofficial-by-adrar/AncientOS-weeaboify-v4.0.1-Final-whyred-Unofficial-20201121-2004-GApps.zip
 
 
   ROM_NAME: Generic

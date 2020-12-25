@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nav.dl.sourceforge.net/project/ancientrom/miatoll/AncientOS-CIVILIZATION-v4.0.1-Final-miatoll-PRIMEVAL-20201127-1456-GApps.zip
+  ROM_URL: https://nav.dl.sourceforge.net/project/ancientrom/beryllium/AncientOS-CIVILIZATION-v4.0.1-Final-beryllium-PRIMEVAL-20201117-2156-Vanilla.zip
 
 
   ROM_NAME: Generic

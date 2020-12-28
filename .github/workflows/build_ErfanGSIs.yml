@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/beryllium/AncientOS-weeaboify-v4.0.1-Final-beryllium-Koshiki-20201118-0457-Vanilla.zip
+  ROM_URL: https://nav.dl.sourceforge.net/project/ancientrom/lavender/AncientOS-R-Society-v5.0-lavender-Iron-20201228-1653-Vanilla.zip
 
 
   ROM_NAME: Generic

@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/mido/Vanilla/AncientOS-R-Society-v5.0-mido-Iron-20201230-0747-Vanilla.zip
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDg4MTY2NjUiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImIzYjllYzU4NjRlYmJhNWMxMzI5MjFjOGI1NDNkYjNkY2ZjOTYwMDg1NmMxYmI3OTFkOWEwODMyNTc3NWIyOTg3NzFjODRjNjA1MjU2Y2VkZmRmYWFmOWZkN2RlYzJmM2VlZWRjZjJhMDhiMjRlMjg0ZmRmYWZlYmM5YmMwYzVkIiwidCI6MTYwOTM1MDIyNCwic3RmcCI6bnVsbCwic3RpcCI6bnVsbH0.rc0Xl9h_MFXz65Pmk2PLYPz6RmPr9xBharUbODKCGwk/MK110.0-RMX1851-202012240307-EXPERIMENTAL.zip
 
 
   ROM_NAME: Generic

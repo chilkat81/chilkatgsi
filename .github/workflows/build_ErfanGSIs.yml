@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/ginkgo/AncientOS-R-Society-v5.0-ginkgo-Iron-20201230-1003-Vanilla.zip
+  ROM_URL: https://nav.dl.sourceforge.net/project/ancientrom/surya/AncientOS-R-Society-v5.0-surya-Iron-20201228-1658-Vanilla.zip
 
 
   ROM_NAME: Generic

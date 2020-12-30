@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nav.dl.sourceforge.net/project/ancientrom/lavender/AncientOS-R-Society-v5.0-lavender-Iron-20201228-1653-Vanilla.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/ginkgo/AncientOS-R-Society-v5.0-ginkgo-Iron-20201230-1003-Vanilla.zip
 
 
   ROM_NAME: Generic

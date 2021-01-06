@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/mido/Vanilla/AncientOS-R-Society-v5.0-mido-Iron-20201230-0747-Vanilla.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/miatoll/AncientOS-R-Society-v5.0-miatoll-Iron-20210106-1828-Vanilla.zip
 
 
   ROM_NAME: Generic

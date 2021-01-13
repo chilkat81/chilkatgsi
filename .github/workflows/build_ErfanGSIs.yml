@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDkxODY0NzYiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6Ijc3ODQyMWQxYjliN2Y0OGUwY2MxNDhkNzJlMzM0NjhhZmQwMmUwM2RmN2JjZTFjYTU2NmVmY2Q5MWY2MzZkZmExMWQ0Yzk4M2YwMGUwNzQ1ZDI4YmM0NmJmODMzMjBlNGY4ZDUxNWI3YzBjMTZiMTEwMTc0Zjg1M2E3MzUyYmM4IiwidCI6MTYxMDA2MjQ3NCwic3RmcCI6IjM2Mjk4NzQ4NDViZTg5OTA2N2M3OGNkODFlZjM0N2U4Iiwic3RpcCI6IjE5NS4xNTUuMTY5LjkwIn0.wDLse4pVvysfBn-dyib3D1ryOUXqinjAjivoybg04OE/Corvus_Android-10-whyred-28122020-OFFICIAL-0751.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/RMX1921/AncientOS-R-Society-v5.0-RMX1921-Iron-20210110-1934-Vanilla.zip
 
 
   ROM_NAME: Generic

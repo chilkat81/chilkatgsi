@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.msmxtended.org/sanders/Xtended-XR-v4.0-sanders-OFFICIAL-20210119.zip
+  ROM_URL: https://downloads.msmxtended.org/daisy/Xtended-XR-v4.0-daisy-OFFICIAL-20210119.zip
 
 
   ROM_NAME: Generic

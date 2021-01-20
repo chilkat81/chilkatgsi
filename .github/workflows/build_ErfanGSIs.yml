@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://versaweb.dl.sourceforge.net/project/ancientrom/kenzo/AncientOS-CIVILIZATION-v4.0.1-Final-kenzo-PRIMEVAL-20210117-0430-Vanilla.zip
+  ROM_URL: https://downloads.msmxtended.org/daisy/Xtended-XR-v4.0-daisy-OFFICIAL-20210119.zip
 
 
   ROM_NAME: Generic

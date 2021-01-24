@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.msmxtended.org/daisy/Xtended-XR-v4.0-daisy-OFFICIAL-20210119.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/whyred/AncientOS-R-Society-v5.1-whyred-Iron-20210124-1153-Vanilla.zip
 
 
   ROM_NAME: Generic

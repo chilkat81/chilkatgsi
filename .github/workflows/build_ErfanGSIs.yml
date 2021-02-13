@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/whyred/AncientOS-R-Society-v5.1-whyred-Iron-20210124-1153-Vanilla.zip
+  ROM_URL: https://downloads.msmxtended.org/sanders/Xtended-XR-v5.0-sanders-OFFICIAL-20210206.zip
 
 
   ROM_NAME: Generic

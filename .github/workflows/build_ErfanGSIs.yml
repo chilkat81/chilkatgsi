@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/whyred/AncientOS-CIVILIZATION-v4.0-Final-whyred-PRIMEVAL-20200922-1501-Vanilla.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/RMX1921/AncientOS-CIVILIZATION-v4.0-Final-RMX1921-PRIMEVAL-20201024-0938-Vanilla.zip
 
 
   ROM_NAME: Generic

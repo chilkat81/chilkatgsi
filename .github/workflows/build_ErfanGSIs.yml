@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/RMX1921/AncientOS-CIVILIZATION-v4.0-Final-RMX1921-PRIMEVAL-20201024-0938-Vanilla.zip
+  ROM_URL: https://us-dl.mokeedev.com/firmware/TUsxMTAuMS1jbG92ZXItMjEwMjI2LUVYUEVSSU1FTlRBTC56aXB8ZmlybXdhcmV8MTYxNDgyMzg2NA/MK110.1-clover-210226-EXPERIMENTAL.zip
 
 
   ROM_NAME: Generic

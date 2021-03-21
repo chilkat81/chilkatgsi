@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.msmxtended.org/sanders/Xtended-XR-v5.0-sanders-OFFICIAL-20210206.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/sanders/AncientOS-R-Society-v5.2-sanders-Iron-20210301-0233-GApps.zip
 
 
   ROM_NAME: Generic

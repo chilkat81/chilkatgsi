@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/sanders/AncientOS-R-Society-v5.2-sanders-Iron-20210301-0233-GApps.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/ancientrom/beryllium/AncientOS-CIVILIZATION-v4.0.1-Final-beryllium-PRIMEVAL-20201117-2156-Vanilla.zip
 
 
   ROM_NAME: Generic

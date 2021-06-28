@@ -27,7 +27,7 @@ jobs:
 
        
        - name: Clone ErfanGSI Source Code
-         run: git clone https://github.com/chilkat81/ErfanGSIs.git  ErfanGSIs
+         run: git clone https://github.com/erkanergen7/ErfanGSIs-VelanGSIs.git  ErfanGSIs
        
        - name: Setting up ErfanGSI requirements
          run: |
